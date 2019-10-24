@@ -1,0 +1,11 @@
+{
+  "name": "avalon_resilient",
+  "version": "1.0.0",
+  "description": "homepage for avalon resilient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Mueller",
+  "license": "ISC"
+}
