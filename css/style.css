@@ -4,12 +4,17 @@
 .icon-block {
 	padding: 0 15px;
 }
+
 .icon-block .material-icons {
 	font-size: inherit;
 }
 
 .header {
 	font-family: 'Julius Sans One', sans-serif;
+}
+
+.header h5 {
+	font-size: 2rem;
 }
 
 .nav-bar {
@@ -41,6 +46,38 @@
 	background-position: center;
 	background-repeat: no-repeat;
 }
+
+/* About  */
+
+#about-banner {
+	background-image: url('../images/bg3.jpeg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.about-header {
+	height: 170px;
+}
+
+/* About End */
+
+/* Contact */
+
+#contact-banner {
+	background-image: url('../images/bg2.jpeg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.contact-header {
+	height: 170px;
+}
+
+/* Contact End */
+
+/* Shared */
 
 .footer {
 	font-family: 'Montserrat', sans-serif;
