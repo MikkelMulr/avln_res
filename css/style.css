@@ -34,8 +34,20 @@
 	background-color: #111;
 }
 
+.sidenav-trigger {
+	color: #fff;
+}
+
+/* 
+nav {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+} */
+
 #nav-logo {
-	height: 68%;
+	height: 50%;
 	margin-top: 0.6rem;
 	padding: 0.2rem;
 }
@@ -136,6 +148,7 @@
 }
 
 @media (max-width: 920px) {
+
 	#contact-banner,
 	#index-banner,
 	#about-banner {
@@ -158,6 +171,7 @@
 }
 
 @media (max-width: 420px) {
+
 	#contact-banner,
 	#index-banner,
 	#about-banner {
